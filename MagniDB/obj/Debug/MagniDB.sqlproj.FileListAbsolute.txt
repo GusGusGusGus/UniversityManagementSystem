@@ -1,0 +1,6 @@
+C:\Users\Guzz\source\repos\UniversityMagni\ProjectVersion001\MagniDB\bin\Debug\MagniDB.dacpac
+C:\Users\Guzz\source\repos\UniversityMagni\ProjectVersion001\MagniDB\bin\Debug\MagniDB.dll
+C:\Users\Guzz\source\repos\UniversityMagni\ProjectVersion001\MagniDB\bin\Debug\MagniDB.pdb
+C:\Users\Guzz\source\repos\UniversityMagni\ProjectVersion001\MagniDB\obj\Debug\MagniDB.sqlprojAssemblyReference.cache
+C:\Users\Guzz\source\repos\UniversityMagni\ProjectVersion001\MagniDB\obj\Debug\MagniDB.dll
+C:\Users\Guzz\source\repos\UniversityMagni\ProjectVersion001\MagniDB\obj\Debug\MagniDB.pdb
